@@ -12,4 +12,4 @@ Examples are shown in `run.sh`.
 
 For the experiments of unmixing performance on simulated datasets, we have provided pretrained models in the repository.
 
-
+`main_simulate.m` is used for generate simulated datasets and is modified from [LUMoS code](https://doi.org/10.1371/journal.pone.0225410).
